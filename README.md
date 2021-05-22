@@ -16,9 +16,6 @@ If you have any doubt or issue u cand send me an e-mail to: jorge.zambrano@unmsm
 - USB Blaster
 - Codec PMOD I2S2
 
-### Projects
-
-[FIR FILTER](https://github.com/stryBoy/FIRfilter_FPGA)
 
 ### Software
 
